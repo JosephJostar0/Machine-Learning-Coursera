@@ -13,7 +13,8 @@
 - [Lab2](./week2/lab2.ipynb) Multiple linear regression
 - [Lab3](./week2/lab3.ipynb) Feature scaling and Learning Rate
 - [Lab4](./week2/lab4.ipynb) Feature engineering and Polynomial regression
-- [Lab5](./week2/lab5.ipynb) Linear regression with scikit-learn
+- [Lab5](./week2/lab5.ipynb) Linear regression with scikit-learn 
+- [**Practice Lab**](./week2/lab.ipynb) Linear regression
 
 ## Week3 Classification
 
@@ -26,5 +27,4 @@
 - [Lab7](./week3/lab7.ipynb) Logistic regression with scikit-learn
 - [Lab8](./week3/lab8.ipynb) Overfitting
 - [Lab9](./week3/lab9.ipynb) Regularization
-
-### [Practice Lab](./week3/lab.ipynb) logistic regression
+- [**Practice Lab**](./week3/lab.ipynb) logistic regression
