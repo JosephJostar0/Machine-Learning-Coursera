@@ -2,27 +2,29 @@
 
 ## Week1 Introduction to Machine Learning
 
-1. **Lab1** [Python and Jupyter Notebooks](./week1/lab1.ipynb)
-2. **Lab2** [Model representation](./week1/lab2.ipynb)
-3. **Lab3** [Cost function](./week1/lab3.ipynb) 
-4. **Lab4** [Gradient desent](./week1/lab4.ipynb)
+- [Lab1](./week1/lab1.ipynb) Python and Jupyter Notebooks
+- [Lab2](./week1/lab2.ipynb) Model representation
+- [Lab3](./week1/lab3.ipynb) Cost function
+- [Lab4](./week1/lab4.ipynb) Gradient desent
 
 ## Week2 Regression with multiple input variables
 
-1. **Lab1** [Python, Numpy, and vectorization](./week2/lab1.ipynb) 
-2. **Lab2** [Multiple linear regression](./week2/lab2.ipynb)
-3. **Lab3** [Feature scaling and Learning Rate](./week2/lab3.ipynb)
-4. **Lab4** [Feature engineering and Polynomial regression](./week2/lab4.ipynb)
-5. **Lab5** [Linear regression with scikit-learn](./week2/lab5.ipynb)
+- [Lab1](./week2/lab1.ipynb) Python, Numpy, and vectorization
+- [Lab2](./week2/lab2.ipynb) Multiple linear regression
+- [Lab3](./week2/lab3.ipynb) Feature scaling and Learning Rate
+- [Lab4](./week2/lab4.ipynb) Feature engineering and Polynomial regression
+- [Lab5](./week2/lab5.ipynb) Linear regression with scikit-learn
 
 ## Week3 Classification
 
-1. **Lab1** [Classification](./week3/lab1.ipynb)
-2. **Lab2** [Sigmoid function and logistic regression](./week3/lab2.ipynb)
-3. **Lab3** [Decision boundary](./week3/lab3.ipynb)
-4. **Lab4** [Logistic loss](./week3/lab4.ipynb)
-5. **Lab5** [Cost function for logistic regression](./week3/lab5.ipynb)
-6. **Lab6** [Gradient descent for logistic regression](./week3/lab6.ipynb)
-7. **Lab7** [Logistic regression with scikit-learn](./week3/lab7.ipynb)
-8. **Lab8** [Overfitting](./week3/lab8.ipynb)
-9. **Lab9** [Regularization](./week3/lab9.ipynb)
+- [Lab1](./week3/lab1.ipynb) Classification
+- [Lab2](./week3/lab2.ipynb) Sigmoid function and logistic regression
+- [Lab3](./week3/lab3.ipynb) Decision boundary
+- [Lab4](./week3/lab4.ipynb) Logistic loss
+- [Lab5](./week3/lab5.ipynb) Cost function for logistic regression
+- [Lab6](./week3/lab6.ipynb) Gradient descent for logistic regression
+- [Lab7](./week3/lab7.ipynb) Logistic regression with scikit-learn
+- [Lab8](./week3/lab8.ipynb) Overfitting
+- [Lab9](./week3/lab9.ipynb) Regularization
+
+### [Practice Lab](./week3/lab.ipynb) logistic regression
