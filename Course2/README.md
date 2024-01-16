@@ -8,3 +8,7 @@
 - [**Practice Lab**](./week1/lab.ipynb) Neural networks
 
 ## Week2 Neural network training
+
+- [lab1](./week2/lab1.ipynb) ReLU activation
+- [lab2](./week2/lab2.ipynb) Softmax
+- [lab3](./week2/lab3.ipynb) Multiclass
