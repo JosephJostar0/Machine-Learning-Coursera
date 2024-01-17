@@ -12,3 +12,8 @@
 - [lab1](./week2/lab1.ipynb) ReLU activation
 - [lab2](./week2/lab2.ipynb) Softmax
 - [lab3](./week2/lab3.ipynb) Multiclass
+- [**Practice Lab**]() Neural Networks for Multiclass classification
+
+## Week3 Advice for applying machine learning
+
+- [lab1](./week3/lab1.ipynb) Model Evaluation and Selection
