@@ -17,3 +17,4 @@
 ## Week3 Advice for applying machine learning
 
 - [lab1](./week3/lab1.ipynb) Model Evaluation and Selection
+- [lab2](./week3/lab2.ipynb) Diagnosing Bias and Variance
