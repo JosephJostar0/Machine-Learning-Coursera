@@ -1,4 +1,10 @@
 temp.py
+*.zip
+betaversion/
+archive/
+pre_*/
+.hidden
+logs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
