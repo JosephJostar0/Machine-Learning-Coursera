@@ -3,4 +3,4 @@ This repository contains the code, notes, and results from my work on the Course
 
 ### [Course1](./Course1/README.md) Supervised Machine Learning: Regression and Classification
 ### [Course2](./Course2/README.md) Advanced Learning Algorithms
-### [Course3](./Course3/README.me) Unsupervised Learning, Recommenders, Reinforcement Learning
+### [Course3](./Course3/README.md) Unsupervised Learning, Recommenders, Reinforcement Learning
